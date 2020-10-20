@@ -1,0 +1,13 @@
+﻿  Reversi.cpp
+C:\Users\grefi\source\repos\Reversi\Reversi\Board.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\grefi\source\repos\Reversi\Reversi\Board.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\grefi\source\repos\Reversi\Reversi\Board.h(48,7): warning C4101: 'tempY': unreferenced local variable
+C:\Users\grefi\source\repos\Reversi\Reversi\Board.h(263,7): warning C4101: 'tempY': unreferenced local variable
+  ReversiConsoleView.cpp
+C:\Users\grefi\source\repos\Reversi\Reversi\Reversi.cpp(16,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\grefi\source\repos\Reversi\Reversi\Board.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\grefi\source\repos\Reversi\Reversi\Board.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\grefi\source\repos\Reversi\Reversi\Board.h(48,7): warning C4101: 'tempY': unreferenced local variable
+  Generating Code...
+C:\Users\grefi\source\repos\Reversi\Reversi\Board.h(263,7): warning C4101: 'tempY': unreferenced local variable
+  Reversi.vcxproj -> C:\Users\grefi\source\repos\Reversi\Debug\Reversi.exe
